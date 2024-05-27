@@ -1,10 +1,14 @@
 body,
 html,
 #root {
-  height: 100vh;
+	/* height: 100vh; */
 }
 #root {
-  background-color: teal;
-  color: ivory;
-  padding: 16px;
+	background-color: teal;
+	color: ivory;
+	padding: 16px;
+}
+
+.invalid {
+	background-color: red;
 }
